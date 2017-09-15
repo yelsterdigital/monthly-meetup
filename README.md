@@ -1,6 +1,6 @@
 # Monthly Meetup @ yelster digital
 
-## September edition - first event
+## September edition (22.09, 2pm) - first event
 
 ### Regular talks (max 30 min):
 * Dependence Day - Saša Marić
