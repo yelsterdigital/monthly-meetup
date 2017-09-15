@@ -1,5 +1,5 @@
 # Monthly Meetup @ yelster digital
-![logo](yelsterdigital.github.io/monthly-meetup/assets/image.png)
+![logo](https://yelsterdigital.github.io/monthly-meetup/assets/image.png)
 
 ## September edition (22.09) - first event
 
