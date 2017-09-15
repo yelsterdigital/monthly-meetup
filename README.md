@@ -7,6 +7,6 @@
 * How Web Apps Run Elsewhere - Andreas Schlapsi
 
 ### Lightning talks (max 10 min):
-* impact mapping - Jasenko Ramljak
-* Yubi keys - Bálint Szilakszi
-* tail call optimization - Tom Macdonald
+* Impact Mapping - Jasenko Ramljak
+* Yubi Keys - Bálint Szilakszi
+* Tail Call Optimization - Tom Macdonald
