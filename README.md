@@ -5,6 +5,20 @@ for external attendees:
 or
 * go to https://appear.in/yelster-meetup
 
+
+## October edition (20.10)
+
+### Regular talks (max 30 min):
+* free
+* free
+* free
+
+### Lightning talks (max 10 min):
+* Brief introduction to ML - Maciej Jordanek
+* free
+* free
+
+
 ## September edition (22.09) - first event
 
 ### Regular talks (max 30 min):
