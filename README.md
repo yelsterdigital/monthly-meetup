@@ -6,15 +6,15 @@ or
 * go to https://appear.in/yelster-meetup
 
 
-## October edition (20.10)
+## October edition (03.11)
 
 ### Regular talks (max 30 min):
-* free
+* Brief introduction to ML - Maciej Jordanek
 * free
 * free
 
 ### Lightning talks (max 10 min):
-* Brief introduction to ML - Maciej Jordanek
+* free
 * free
 * free
 
