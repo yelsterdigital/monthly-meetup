@@ -14,7 +14,7 @@ or
 * free
 
 ### Lightning talks (max 10 min):
-* free
+* monitoring and alerting - Saša Marić
 * free
 * free
 
