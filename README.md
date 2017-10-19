@@ -3,7 +3,7 @@
 for external attendees:
 * We will call you on Cisco
 or
-* go to https://appear.in/yelster-meetup
+* go to [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup)
 
 
 ## October edition (03.11)
