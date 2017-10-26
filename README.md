@@ -17,8 +17,6 @@ or
 
 ### Lightning talks (max 10 min):
 * monitoring and alerting - Saša Marić
-* free
-* free
 
 
 ## September edition (22.09) - first event
