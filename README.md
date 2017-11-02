@@ -9,7 +9,7 @@ or
 ## October edition (03.11)
 
 ### Regular talks (max 30 min):
-* Brief introduction to ML - Maciej Jordanek
+* Brief introduction to machine learning - Maciej Jordanek
 * Setting up Business Intelligence between hypes and reality  - Manfred Mayrhofer
     - What are the challenges and pitfalls of setting up a reporting system and analytics in a company
     - Views on the key relation between Business and IT for a working Business Intelligence from a commercial perspective
@@ -17,7 +17,7 @@ or
 
 ### Lightning talks (max 10 min):
 * monitoring and alerting - Saša Marić
-
+* Brief introduction to genetic algorithms - Tom Macdonald
 
 ## September edition (22.09) - first event
 
