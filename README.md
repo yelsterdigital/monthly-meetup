@@ -9,8 +9,8 @@ or
 ## October edition (03.11)
 
 ### Regular talks (max 30 min):
-* Brief introduction to machine learning - Maciej Jordanek
-* Setting up Business Intelligence between hypes and reality  - Manfred Mayrhofer
+* [Brief introduction to machine learning](http://slides.com/maciejjordanek/brief-introduction-to-ml) - if you cannot see slides, please open in incognito (private) window - Maciej Jordanek
+* (Setting up Business Intelligence between hypes and reality)[https://docs.google.com/presentation/d/1T_sB55Q1FAuTB3EK1dJi7yyCb8aMQACwoRLcwNwwRys/edit]  - Manfred Mayrhofer
     - What are the challenges and pitfalls of setting up a reporting system and analytics in a company
     - Views on the key relation between Business and IT for a working Business Intelligence from a commercial perspective
 * ~~APIs, Design and ORMs - Bálint Szilakszi~~ (moved to next meetup)
