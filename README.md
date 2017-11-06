@@ -16,7 +16,7 @@ or
 * ~~APIs, Design and ORMs - Bálint Szilakszi~~ (moved to next meetup)
 
 ### Lightning talks (max 10 min):
-* [monitoring and alerting]("pdfs/October/monitoring-and-alerting.pdf") - Saša Marić
+* [monitoring and alerting](https://github.com/yelsterdigital/monthly-meetup/blob/master/pdfs/October/monitoring-and-alerting.pdf) - Saša Marić
 * Brief introduction to genetic algorithms - Tom Macdonald
 
 ## September edition (22.09) - first event
