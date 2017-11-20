@@ -6,6 +6,17 @@ or
 * go to [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup)
 
 
+## November/December (date not decided)
+
+### Regular talks (max 30 min):
+* ? - Josef Schwarz
+* ?
+* ?
+
+### Lightning talks (~10 min):
+* Reactive extensions - Maciej Jordanek
+* ?
+
 ## October edition (03.11)
 
 ### Regular talks (max 30 min):
