@@ -6,7 +6,7 @@ or
 * go to [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup)
 
 
-## November/December (date not decided)
+## November/December (15.12)
 
 ### Regular talks (max 30 min):
 * ? - Josef Schwarz
@@ -14,7 +14,7 @@ or
 * ?
 
 ### Lightning talks (~10 min):
-* Reactive extensions - Maciej Jordanek
+* Prototyping with Angular and Firebase - Maciej Jordanek
 * ?
 
 ## October edition (03.11)
