@@ -10,12 +10,13 @@ or
 
 ### Regular talks (max 30 min):
 * Redis - Josef Schwarz
-* ? - Romain Ernandez
-* ?
+* Introduction to web attacks and cybersecurity - Romain Ernandez
+* Simplifying Unit Tests with pytest - Andreas Schlapsi
 
 ### Lightning talks (~10 min):
 * Prototyping with Angular and Firebase - Maciej Jordanek
 * Engineering vs Craftsmanship - Tom Macdonald
+
 
 ## October edition (03.11)
 
@@ -29,6 +30,7 @@ or
 ### Lightning talks (max 10 min):
 * [monitoring and alerting](https://github.com/yelsterdigital/monthly-meetup/blob/master/pdfs/October/monitoring-and-alerting.pdf) - Saša Marić
 * Brief introduction to genetic algorithms - Tom Macdonald
+
 
 ## September edition (22.09) - first event
 
