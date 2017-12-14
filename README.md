@@ -10,7 +10,7 @@ or
 
 ### Regular talks (max 30 min):
 * Redis - Josef Schwarz
-* Introduction to web attacks and cybersecurity - Romain Ernandez
+* Introduction to web exploits - Romain Ernandez
 * Simplifying Unit Tests with pytest - Andreas Schlapsi
 
 ### Lightning talks (~10 min):
