@@ -9,13 +9,13 @@ or
 ## November/December (15.12)
 
 ### Regular talks (max 30 min):
-* ? - Josef Schwarz
-* ?
+* Redis - Josef Schwarz
+* ? - Romain Ernandez
 * ?
 
 ### Lightning talks (~10 min):
 * Prototyping with Angular and Firebase - Maciej Jordanek
-* ?
+* Engineering vs Craftsmanship - Tom Macdonald
 
 ## October edition (03.11)
 
