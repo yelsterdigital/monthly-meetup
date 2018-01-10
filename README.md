@@ -6,7 +6,17 @@ or
 * go to [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup)
 
 
-## November/December (15.12)
+## January (11.01.2018 🎇 🎆 ) - internal event
+
+### Regular talks (max 30 min):
+* ~~APIs, Design and ORMs - Bálint Szilakszi
+
+### Lightning talks (~10 min):
+* Metabase - Pauline Laharanne
+* Y Combinator - Tom Macdonald (unsure)
+
+
+## November/December (15.12.2017 ☃️ 🎄 )
 
 ### Regular talks (max 30 min):
 * Redis - Josef Schwarz
@@ -18,21 +28,20 @@ or
 * Engineering vs Craftsmanship - Tom Macdonald
 
 
-## October edition (03.11)
+## October edition (03.11.2017 ☔️ )
 
 ### Regular talks (max 30 min):
 * [Brief introduction to machine learning](http://slides.com/maciejjordanek/brief-introduction-to-ml) - if you cannot see slides, please open in incognito (private) window - Maciej Jordanek
 * [Setting up Business Intelligence between hypes and reality](https://docs.google.com/presentation/d/1T_sB55Q1FAuTB3EK1dJi7yyCb8aMQACwoRLcwNwwRys/edit)  - Manfred Mayrhofer
     - What are the challenges and pitfalls of setting up a reporting system and analytics in a company
     - Views on the key relation between Business and IT for a working Business Intelligence from a commercial perspective
-* ~~APIs, Design and ORMs - Bálint Szilakszi~~ (moved to next meetup)
 
 ### Lightning talks (max 10 min):
 * [monitoring and alerting](https://github.com/yelsterdigital/monthly-meetup/blob/master/pdfs/October/monitoring-and-alerting.pdf) - Saša Marić
 * Brief introduction to genetic algorithms - Tom Macdonald
 
 
-## September edition (22.09) - first event
+## September edition (22.09.2017 🌤 ) - first event
 
 ### Regular talks (max 30 min):
 * Dependence Day - Saša Marić
