@@ -11,7 +11,7 @@ or
 * APIs, Design and ORMs - Bálint Szilakszi
 
 ### Lightning talks (~10 min):
-* -
+* 
 
 ## January (11.01.2018 🎇 🎆 ) - internal event
 
