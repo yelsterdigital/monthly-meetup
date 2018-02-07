@@ -5,15 +5,21 @@ for external attendees:
 or
 * go to [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup)
 
+## February (to be [decided](https://doodle.com/poll/7atr6ee9h8pwggef) ☃️ 🏂 ⛷ )
+
+### Regular talks (max 30 min):
+* APIs, Design and ORMs - Bálint Szilakszi
+
+### Lightning talks (~10 min):
+* -
 
 ## January (11.01.2018 🎇 🎆 ) - internal event
 
 ### Regular talks (max 30 min):
-* ~~APIs, Design and ORMs - Bálint Szilakszi
+* Crowdfunding - Alexis Braillon
 
 ### Lightning talks (~10 min):
 * Metabase - Pauline Laharanne
-* Y Combinator - Tom Macdonald (unsure)
 
 
 ## November/December (15.12.2017 ☃️ 🎄 )
