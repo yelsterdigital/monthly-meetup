@@ -9,7 +9,7 @@ or
 
 ### Regular talks (max 30 min):
 * APIs, Design and ORMs - Bálint Szilakszi
-* surprise - Andreas Schlapsi
+* Managing Dependencies with Pipenv - Andreas Schlapsi
 * Presence Manager shared components architecture - Maciej Jordanek
 
 
