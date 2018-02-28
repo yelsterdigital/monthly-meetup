@@ -5,7 +5,7 @@ for external attendees:
 or
 * go to [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup)
 
-## February (28.02.2018) ☃️ 🏂 ⛷ )
+## February (28.02.2018 ☃️ 🏂 ⛷ )
 
 ### Regular talks (max 30 min):
 * APIs, Design and ORMs - Bálint Szilakszi
