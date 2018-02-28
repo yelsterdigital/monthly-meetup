@@ -12,8 +12,6 @@ or
 * surprise - Andreas Schlapsi
 * Presence Manager shared components architecture - Maciej Jordanek
 
-### Lightning talks (~10 min):
-* 
 
 ## January (11.01.2018 🎇 🎆 ) - internal event
 
