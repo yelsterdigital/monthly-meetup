@@ -5,10 +5,12 @@ for external attendees:
 or
 * go to [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup)
 
-## February (to be [decided](https://doodle.com/poll/7atr6ee9h8pwggef) ☃️ 🏂 ⛷ )
+## February (28.02.2018) ☃️ 🏂 ⛷ )
 
 ### Regular talks (max 30 min):
 * APIs, Design and ORMs - Bálint Szilakszi
+* surprise - Andreas Schlapsi
+* Presence Manager shared components architecture - Maciej Jordanek
 
 ### Lightning talks (~10 min):
 * 
