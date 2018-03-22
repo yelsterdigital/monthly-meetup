@@ -5,6 +5,18 @@ for external attendees:
 or
 * go to [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup)
 
+## March (28.03.2018 ⛅️ 🥚 )
+
+### Regular talks (max 30 min):
+* Introduction to GraphQL - Romain Ernandez
+* ?
+* ?
+
+### Lightning talks (~10min):
+* SSH Keys and their Life-cycle - Bálint Szilakszi
+* ?
+
+
 ## February (28.02.2018 ☃️ 🏂 ⛷ )
 
 ### Regular talks (max 30 min):
