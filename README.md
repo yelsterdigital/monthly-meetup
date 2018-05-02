@@ -5,7 +5,7 @@ for external attendees:
 or
 * go to [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup)
 
-## Early Spring (05.05.2018 😎 🏕 )
+## Early Spring (04.05.2018 😎 🏕 )
 
 ### Regular talks (max 30 min):
 * Purescript - Tom Macdonald
