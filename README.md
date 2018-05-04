@@ -8,11 +8,8 @@ or
 ## Early Spring (04.05.2018 😎 🏕 )
 
 ### Regular talks (max 30 min):
-* Purescript - Tom Macdonald
-* Some Python gotchas & unittest mocking - Christian Zwicknagl
-
-### Lightning talks (~10min):
-* ?
+* [Purescript](https://docs.google.com/presentation/d/1iCpu96uQpSfkOJs83J7Rx1kk9unw9BkIBi8TBJxubyw/edit?usp=sharing) - Tom Macdonald
+* [Some Python gotchas & unittest mocking](https://drive.google.com/open?id=1hmKLwDSHUd0qxeU9EF8mn79ZFPpFo1e9_1C7Pg5B6yI) - Christian Zwicknagl
 
 
 ## March (28.03.2018 ⛅️ 🥚 )
