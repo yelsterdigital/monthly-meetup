@@ -1,8 +1,8 @@
 # Monthly Meetup @ yelster digital
 
 for external attendees:
-* we use [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup) and/or Google Hangouts and/or Cisco
-* to connect with us let me know at m.jordanek@yelsterdigital.com
+* for remote broadcasting we use [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup) and/or Google Hangouts and/or Cisco
+* to join the meetup remotely let us know at m.jordanek@yelsterdigital.com
 * you can share this event with your friends
 
 ## Early Spring (04.05.2018 😎 🏕 )
