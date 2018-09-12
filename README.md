@@ -8,7 +8,7 @@ for external attendees:
 ## September ANNIVERSARY edition (12.09.2018 🚀 🎊 🎂 )
 
 ### Regular talks (max 30 min):
-* NixOS - Tom Macdonald
+* [NixOS](https://docs.google.com/presentation/d/1oaLeZ83ug8pHORV6jeC7dgKqPRspBt4PKhBvJMxRO8w/edit#slide=id.p1) - Tom Macdonald
 * REPL Driven Development - José Luis Lafuente
 
 
