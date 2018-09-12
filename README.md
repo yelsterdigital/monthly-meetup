@@ -5,6 +5,13 @@ for external attendees:
 * to join the meetup remotely let us know at m.jordanek@yelsterdigital.com
 * you can share this event with your friends
 
+## September ANNIVERSARY edition (12.09.2018 🚀 🎊 🎂 )
+
+### Regular talks (max 30 min):
+* NixOS - Tom Macdonald
+* REPL Driven Development - José Luis Lafuente
+
+
 ## Early Spring (04.05.2018 😎 🏕 )
 
 ### Regular talks (max 30 min):
