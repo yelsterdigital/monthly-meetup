@@ -5,6 +5,13 @@ for external attendees:
 * to join the meetup remotely let us know at m.jordanek@yelsterdigital.com
 * you can share this event with your friends
 
+## October edition (10.10.2018 🏞 🌤 )
+
+### Regular talks (max 30 min):
+* [Intercultural relations and communication](https://docs.google.com/presentation/d/10LWMO1NdYwpAAK3NY7xFwi-LIWvs5jXmJfOiYyqr96U/edit?usp=sharing) - Benoît Oster
+* Hybrid/Mobile platforms comparison - Maciej Jordanek
+
+
 ## September ANNIVERSARY edition (12.09.2018 🚀 🎊 🎂 )
 
 ### Regular talks (max 30 min):
