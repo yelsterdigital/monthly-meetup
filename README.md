@@ -5,7 +5,7 @@ for external attendees:
 * to join the meetup remotely let us know at m.jordanek@yelsterdigital.com
 * you can share this event with your friends
 
-## November edition (10.10.2018 🌧 ☔️ )
+## November edition (16.11.2018 🌧 ☔️ )
 
 ### Regular talks (max 30 min):
 * Software Design Patterns - Andreas Schlapsi
