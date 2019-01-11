@@ -5,6 +5,13 @@ for external attendees:
 * to join the meetup remotely let us know at m.jordanek@yelsterdigital.com
 * you can share this event with your friends
 
+## January edition (22.01.2019 ✨ ☃️ )
+
+### Talks (max 30 min):
+* Secret guest!
+* decentralized web - Dražen Oršolić
+* imperative vs declarative programming - Maciej Jordanek
+
 ## December edition (20.12.2018 🎅🏾 ☃️ )
 
 ### Lightning talks (max 30 min):
