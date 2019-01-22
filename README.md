@@ -8,9 +8,13 @@ for external attendees:
 ## January edition (22.01.2019 ✨ ☃️ )
 
 ### Talks (max 30 min):
-* decentralized web - Dražen Oršolić
-* imperative vs declarative programming - Maciej Jordanek
-* Secret guest!
+* Decentralized web - Dražen Oršolić
+* Imperative vs Declarative programming - Maciej Jordanek
+* Web accessability - Adrian Bolonio
+
+### Lightning talks (max 10 min):
+* Private distributed social network - Bálint Szilakszi
+
 
 ## December edition (20.12.2018 🎅🏾 ☃️ )
 
