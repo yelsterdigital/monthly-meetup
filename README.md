@@ -2,7 +2,7 @@
 
 for external attendees:
 * for remote broadcasting we use [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup) and/or Google Hangouts and/or Cisco
-* to join the meetup remotely let us know at m.jordanek@yelsterdigital.com
+* to join the meetup remotely let us know at dorsolic@yelsterdigital.com
 * you can share this event with your friends
 
 ## January edition (22.01.2019 ✨ ☃️ )
