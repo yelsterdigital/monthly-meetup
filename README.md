@@ -8,11 +8,11 @@ for external attendees:
 
 ## March edition (👉 TBA ⛅ 🌿 🌷)
 
-### Talks (👉 TBA)
+### Talks (👉 Announced)
 
--
--
--
+-   Are you feeling sleepy yet? - Bálint Szilakszi
+-   Fast & easy Python profiling - Christian Zwicknagl
+-   Welcome to the dark side (of UI) - Dražen Oršolić
 
 ## January edition (22.01.2019 ✨ ☃️ )
 
