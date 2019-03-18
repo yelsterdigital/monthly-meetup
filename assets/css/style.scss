@@ -1,0 +1,43 @@
+---
+---
+
+@import '{{ site.theme }}';
+body {
+	background-color: #181818;
+	header {
+		color: #878787;
+		h1 {
+			a {
+				text-transform: capitalize;
+				small {
+					color: #878787;
+				}
+			}
+		}
+	}
+	section {
+		color: #878787;
+		h1 {
+			color: #bababa;
+		}
+		h2 {
+			color: #bababa;
+			border-top: 1px solid #bababa;
+			padding-top: 20px;
+		}
+		h3 {
+			color: #6e6e6e;
+		}
+	}
+	footer {
+		color: #878787;
+	}
+	a {
+		color: #29a6ff;
+		transition: color 0.1s ease-out;
+		&:hover {
+			font-weight: inherit;
+			transition: color 0.2s ease-in;
+		}
+	}
+}
