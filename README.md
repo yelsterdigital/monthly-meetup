@@ -2,13 +2,17 @@
 
 for external attendees:
 
--   for remote broadcasting we use [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup) and/or Google Hangouts and/or Cisco
+-   for remote broadcasting we use:
+    -   [March only YouTube Live](https://youtu.be/xk50mjZpUNU)
+    -   [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup)
+    -   and/or Google Hangouts
+    -   and/or Cisco Webex
 -   to join the meetup remotely let us know at dorsolic@yelsterdigital.com
 -   you can share this event with your friends
 
-## March edition (👉 TBA ⛅ 🌿 🌷)
+## March edition (27.03.2019 16h ⛅ 🌿 🌷)
 
-### Talks (👉 Announced)
+### Talks (max 30 min)
 
 -   Are you feeling sleepy yet? - Bálint Szilakszi
 -   Fast & easy Python profiling - Christian Zwicknagl
