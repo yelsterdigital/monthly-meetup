@@ -10,7 +10,7 @@ for external attendees:
 -   to join the meetup remotely let us know at dorsolic@yelsterdigital.com
 -   you can share this event with your friends
 
-## March edition (27.03.2019 16h ⛅ 🌿 🌷)
+## March edition (27.03.2019 / 16h ⛅ 🌿 🌷)
 
 ### Talks (max 30 min)
 
