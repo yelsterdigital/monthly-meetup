@@ -3,7 +3,7 @@
 for external attendees:
 
 -   for remote broadcasting we use:
-    -   [March only YouTube Live](https://youtu.be/xk50mjZpUNU)
+    -   [March only YouTube Live](https://youtu.be/10e-BvWVTdQ)
     -   [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup)
     -   and/or Google Hangouts
     -   and/or Cisco Webex
@@ -14,9 +14,9 @@ for external attendees:
 
 ### Talks (max 30 min)
 
--   Are you feeling sleepy yet? - Bálint Szilakszi
--   Fast & easy Python profiling - Christian Zwicknagl
--   Welcome to the dark side (of UI) - Dražen Oršolić
+-   [Are you feeling sleepy yet?](https://slides.com/szbalint/are-you-feeling-sleepy-yet/) - Bálint Szilakszi
+-   [Fast & easy Python profiling](https://github.com/yelsterdigital/monthly-meetup/blob/master/pdfs/2019_March/Fast-and-easy-Python-Profiling.pdf) - Christian Zwicknagl
+-   [Welcome to the dark side (of UI)](https://slides.com/glava11/darkside/) - Dražen Oršolić
 
 ## January edition (22.01.2019 ✨ ☃️ )
 
@@ -118,7 +118,7 @@ for external attendees:
 
 ### Lightning talks (max 10 min):
 
--   [monitoring and alerting](https://github.com/yelsterdigital/monthly-meetup/blob/master/pdfs/October/monitoring-and-alerting.pdf) - Saša Marić
+-   [monitoring and alerting](https://github.com/yelsterdigital/monthly-meetup/blob/master/pdfs/2017_October/monitoring-and-alerting.pdf) - Saša Marić
 -   Brief introduction to genetic algorithms - Tom Macdonald
 
 ## September edition (22.09.2017 🌤 ) - first event
