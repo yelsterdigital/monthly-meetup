@@ -14,8 +14,9 @@ for external attendees:
 
 ### Talks ( Announced )
 
-- [Machine Learning: Customer Churn Prediction using Python]() - Thomas WAHA
-- [Tooling]() - José Luis LAFUENTE
+- "Machine Learning: Customer Churn Prediction using Python" - Thomas WAHA
+- "Tooling" - José Luis LAFUENTE
+- ?
 
 ## March edition (27.03.2019 / 16h ⛅ 🌿 🌷)
 
