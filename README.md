@@ -10,7 +10,7 @@ for external attendees:
 - to join the meetup remotely let us know at dorsolic@yelsterdigital.com
 - you can share this event with your friends
 
-## May edition (TBA 🌞 🌬 ⛈)
+## May edition ( 29.05.2019 / 16h 🌞 🌬 ⛈)
 
 ### Talks ( Announced )
 
