@@ -12,11 +12,11 @@ for external attendees:
 
 ## May edition ( 29.05.2019 / 16h 🌞 🌬 ⛈)
 
-### Talks ( Announced )
+### Talks (max 30 min)
 
-- "Machine Learning: Customer Churn Prediction using Python" - Thomas WAHA
-- "Tooling" - José Luis LAFUENTE
-- ?
+- Machine Learning: Customer Churn Prediction using Python - Thomas WAHA
+- Tooling - José Luis LAFUENTE
+- GCP Console overview - Josef SCHWARZ
 
 ## March edition (27.03.2019 / 16h ⛅ 🌿 🌷)
 
