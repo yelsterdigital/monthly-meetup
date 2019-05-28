@@ -3,7 +3,7 @@
 for external attendees:
 
 - for remote broadcasting we use:
-  - [March only YouTube Live](https://youtu.be/10e-BvWVTdQ)
+  - [YouTube](https://youtu.be/Rb4AnjEi7P0)
   - [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup)
   - and/or Google Hangouts
   - and/or Cisco Webex
@@ -25,6 +25,8 @@ for external attendees:
 - [Are you feeling sleepy yet?](https://slides.com/szbalint/are-you-feeling-sleepy-yet/) - Bálint Szilakszi
 - [Fast & easy Python profiling](https://github.com/yelsterdigital/monthly-meetup/blob/master/pdfs/2019_March/Fast-and-easy-Python-Profiling.pdf) - Christian Zwicknagl
 - [Welcome to the dark side (of UI)](https://slides.com/glava11/darkside/) - Dražen Oršolić
+
+-> [March only YouTube Live](https://youtu.be/10e-BvWVTdQ)
 
 ## January edition (22.01.2019 ✨ ☃️ )
 
