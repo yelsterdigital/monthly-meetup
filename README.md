@@ -10,7 +10,7 @@ for external attendees:
 - to join the meetup remotely let us know at dorsolic@yelsterdigital.com
 - you can share this event with your friends
 
-## June edition ( 19.06.2019 🌞 🌤 ⛱)
+## July edition (10.07.2019 🌞 🌤 ⛱)
 
 ### Talks (max 30 min)
 
