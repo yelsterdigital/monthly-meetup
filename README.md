@@ -3,14 +3,14 @@
 for external attendees:
 
 - for remote broadcasting we use:
-  - [YouTube](https://youtu.be/Rb4AnjEi7P0)
+  - [YouTube](https://www.youtube.com/watch?v=ar0M1sTgWhU)
   - [https://appear.in/yelster-meetup](https://appear.in/yelster-meetup)
   - and/or Google Hangouts
   - and/or Cisco Webex
 - to join the meetup remotely let us know at dorsolic@yelsterdigital.com
 - you can share this event with your friends
 
-## July edition (10.07.2019 🌞 🌤 ⛱)
+## July edition (10.07.2019 / 16h 🌞 🌤 ⛱)
 
 ### Talks (max 30 min)
 
